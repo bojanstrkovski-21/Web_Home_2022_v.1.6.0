@@ -96,9 +96,7 @@ footer {
     color: #fdb5ff;
 }
 
-.main_nav .navigator li:active {
-    height: 52px;
-}
+
 
 
 .logo {
@@ -120,6 +118,10 @@ li {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.main_nav .navigator li:active {
+    height: 54px;
 }
 
 li a:visited {
