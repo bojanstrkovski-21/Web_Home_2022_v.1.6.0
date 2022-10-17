@@ -300,6 +300,14 @@ cursor: pointer;
     font-size: 35px;
 }
 
+.box:hover {
+    color: #fdb5ff;
+}
+
+.box:active {
+    background-color: rgba(236, 122, 194, 0.1);
+}
+
 .house {
     font-size: 26px;
 }
