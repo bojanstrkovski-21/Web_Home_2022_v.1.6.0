@@ -230,6 +230,10 @@ cursor: pointer;
     color: #fdb5ff;
 }
 
+.background:active {
+    background-color: rgba(236, 122, 194, 0.1);
+}
+
 
 .info {
     grid-column: 3 / 4;
